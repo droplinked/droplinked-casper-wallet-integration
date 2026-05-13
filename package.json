@@ -16,5 +16,8 @@
     "casper-js-sdk": "^2.12.1",
     "casper-wallet-sdk": "^0.0.1",
     "nft.storage": "^7.0.3"
+  },
+  "overrides": {
+    "protobufjs": "^7.5.8"
   }
 }
